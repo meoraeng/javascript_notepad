@@ -1,0 +1,16 @@
+
+
+
+#explainText{
+    color: navy;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+#printingBox{
+    width: 850px;
+    height: 400px;
+    border: 2px solid silver;
+    color: green;
+    padding: 10px 0px 0px 15px;
+}
