@@ -1,3 +1,20 @@
+body {
+    margin: 10px 0px 0px 10px;
+}
+
+#title {
+    margin-bottom: 15px;
+    font-size: 30px;
+    font-weight:bold;
+}
+
+#record {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(202, 164, 108);
+    width: 850px;
+    color: brown;
+}
 
 
 
